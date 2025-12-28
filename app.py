@@ -23,4 +23,5 @@ for i in final_X:
   result = st.sidebar.slidder(f'Select {i} value')
   all_value.append(result)
 
-st.write(all_vlue
+st.write(all_value)
+
